@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vamzzisme
+- 👋 Hi, I’m P Vamshi Krishna
 - 👀 I’m deeply interested in Coding
 - 🌱 I’m currently learning MERN
 - 💞️ I’m looking to collaborate on ...
