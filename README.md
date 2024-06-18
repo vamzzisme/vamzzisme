@@ -1,7 +1,7 @@
 - 👋 Hi, I’m P Vamshi Krishna
-- 👀 I’m deeply interested in Coding
+- 👀 I’m deeply interested in Development and Design
 - 🌱 I’m currently learning MERN
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Web Development or Designs
 - 📫 How to reach me: DM on instagram @vamzzisme | Mail me at pvamshikrishna369@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: My interesting spotify usage stats: 7,100* min/month :)🎧
